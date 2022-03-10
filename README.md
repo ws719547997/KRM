@@ -1,2 +1,2 @@
-Coming soon !
-if things go well
+持续学习情感分类方法KRM，感谢您的关注！
+待我写完大论文再来更新README~
